@@ -1,8 +1,6 @@
 name: chatgpt-code-reviewer
 run-name: chatgpt-code-reviewer
-on:
-  pull_request:
-  workflow_dispatch:
+on: [pull_request]
 
 jobs:
   chatgpt-code-reviewer:
