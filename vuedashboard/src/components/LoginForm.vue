@@ -1,7 +1,7 @@
 <template>
     <div class="login">
       <h2>Login</h2>
-      <h3>User: eve.holt@reqres.in Pwd: cityslicka</h3>
+      <h3>Use this user: eve.holt@reqres.in  And this password: cityslicka</h3>
       <form @submit.prevent="login">
         <input v-model="email" type="email" placeholder="Email" required>
         <input v-model="password" type="password" placeholder="Password" required>
