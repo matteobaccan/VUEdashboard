@@ -25,6 +25,11 @@ yarn lint
 npm uninstall @vue/cli-plugin-eslint --save-dev
 ```
 
+### Fix dependencies
+```bash
+npm audit fix
+```
+
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
