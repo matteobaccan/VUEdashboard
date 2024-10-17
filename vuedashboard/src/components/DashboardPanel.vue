@@ -5,7 +5,6 @@
             <ul>
                 <li>Home</li>
                 <li>Profile</li>
-                <li>Settings</li>
             </ul>
             <button @click="logout">Logout</button>
         </div>
