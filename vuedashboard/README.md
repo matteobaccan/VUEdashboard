@@ -20,5 +20,11 @@ yarn build
 yarn lint
 ```
 
+### Check dependencies
+```
+npm uninstall @vue/cli-plugin-eslint --save-dev
+```
+
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
