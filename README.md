@@ -35,3 +35,5 @@ yarn build
 ```bash
 yarn lint
 ```
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8458d1ad-c993-4395-b12e-d87665ba4456/deploy-status)](https://app.netlify.com/sites/mbvuedashboard/deploys)
