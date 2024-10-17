@@ -36,4 +36,4 @@ yarn build
 yarn lint
 ```
 
-git submodule add https://github.com/epicmaxco/vuestic-admin
+da valutare git submodule add https://github.com/epicmaxco/vuestic-admin
