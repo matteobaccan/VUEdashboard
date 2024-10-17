@@ -35,3 +35,5 @@ yarn build
 ```bash
 yarn lint
 ```
+
+git submodule add https://github.com/epicmaxco/vuestic-admin
