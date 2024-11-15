@@ -30,6 +30,11 @@ npm uninstall @vue/cli-plugin-eslint --save-dev
 npm audit fix
 ```
 
+### Check dependencies
+```bash
+npm outdated
+```
+
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
